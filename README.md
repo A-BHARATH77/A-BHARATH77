@@ -1,6 +1,6 @@
 ## Hi there 👋 , WELCOME TO MY PAGE!!
 
-- 🔭 I’m currently working on ... Full Stack Dev 
+- 🔭 I’m currently working on ... Gen AI 
 - 🌱 I’m currently learning ... Deep Learning 
 - 💬 Ask me about ... Cars
 - 📫 How to reach me: ... ppybharath19@gmail.com
