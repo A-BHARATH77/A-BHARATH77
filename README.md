@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on ... Gen AI 
 - 🌱 I’m currently learning ... Deep Learning 
+- 🤖 I use GitHub Copilot for AI-assisted development
 - 💬 Ask me about ... Cars
 - 📫 How to reach me: ... ppybharath19@gmail.com
 
@@ -33,11 +34,20 @@ Few Tech's i have learned and using are:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github copilot logo"  />
 </div>
 
-###
-###
-###
+## 🤖 AI-Assisted Development with GitHub Copilot
 
-###
-###
+I leverage GitHub Copilot to enhance my development workflow:
+- **Code Completion**: Intelligent suggestions for faster coding
+- **Problem Solving**: AI-powered assistance for complex algorithms
+- **Learning**: Exploring new patterns and best practices
+- **Productivity**: Reducing repetitive coding tasks
+
+### How I Use Copilot:
+- Writing boilerplate code and templates
+- Generating unit tests and documentation
+- Refactoring and optimization suggestions
+- Learning new frameworks and libraries
