@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... Gen AI 
 - 💬 Ask me about ... Cars
-- 📫 How to reach me: ... ppybharath19@gmail.com
+- 📫 Reach me: ... ppybharath19@gmail.com
 
 Few Tech's i have learned and using are:
 <br clear="both">
